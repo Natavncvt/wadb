@@ -8,6 +8,11 @@
       "nama": "Dinata",
       "nomor": "123456789102",
       "type": "active"
+    },
+    {
+      "nama": "Dinata",
+      "nomor": "628978613993",
+      "type": "blacklist"
     }
   ]
 }
